@@ -8,7 +8,7 @@ body {
 }
 .select__container {
     margin-top: 50px;
-    padding: 150px;
+    padding: 100px 0;
 }
 .select-box {
     position: relative;
