@@ -54,7 +54,7 @@ body {
 }
 .select-box__options.active{
     opacity: 1;
-    max-height: 250px;
+    max-height: 235px;
     overflow-y: scroll;
     margin-top: 64px;
     
